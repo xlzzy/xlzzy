@@ -21,4 +21,6 @@ Ded
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlzzy&layout=compact)
 
