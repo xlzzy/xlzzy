@@ -7,7 +7,7 @@ Ded
 
 
 ## Skills
-- Languages: JavaScript, Python, HTML, CSS
+- Languages: JavaScript, Python, HTML, CSS, Go
 - Frameworks: Node.js
 - Databases: MySQL
 
